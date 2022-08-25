@@ -44,6 +44,12 @@ public class Solution {
     }
 
 
+    /**
+     * Details
+     * Runtime: 1 ms, faster than 89.35% of Java online submissions for Longest Common Prefix.
+     * Memory Usage: 42 MB, less than 59.69% of Java online submissions for Longest Common Prefix.
+     * */
+
     public static String longestCommonPrefix(String[] strs) {
         String prefix = strs[0];
         for(int i = 1; i < strs.length; i++) {
