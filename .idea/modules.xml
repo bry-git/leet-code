@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" filepath="$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LongestSubstringWithoutRepeats/LongestSubstringWithoutRepeats.iml" filepath="$PROJECT_DIR$/LongestSubstringWithoutRepeats/LongestSubstringWithoutRepeats.iml" />
       <module fileurl="file://$PROJECT_DIR$/RomanToInt/RomanToInt.iml" filepath="$PROJECT_DIR$/RomanToInt/RomanToInt.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leet-code.iml" filepath="$PROJECT_DIR$/.idea/leet-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/palindrome-number/palindrome-number.iml" filepath="$PROJECT_DIR$/palindrome-number/palindrome-number.iml" />
