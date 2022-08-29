@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/3sum/3sum.iml" filepath="$PROJECT_DIR$/3sum/3sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" filepath="$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" />
       <module fileurl="file://$PROJECT_DIR$/LongestSubstringWithoutRepeats/LongestSubstringWithoutRepeats.iml" filepath="$PROJECT_DIR$/LongestSubstringWithoutRepeats/LongestSubstringWithoutRepeats.iml" />
       <module fileurl="file://$PROJECT_DIR$/MergeTwoSortedLists/MergeTwoSortedLists.iml" filepath="$PROJECT_DIR$/MergeTwoSortedLists/MergeTwoSortedLists.iml" />
